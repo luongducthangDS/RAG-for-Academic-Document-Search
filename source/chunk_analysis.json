@@ -1,0 +1,52 @@
+﻿{
+  "generated_at": "2026-04-11T00:35:25.559425+00:00",
+  "unit_note": "Chunk size/overlap là giá trị cấu hình truyền vào pipeline. Độ dài chunk được ước lượng theo số từ tách bằng khoảng trắng trên nội dung chunk đã lưu.",
+  "summary": [
+    {
+      "Thuộc tính": "Số tài liệu gốc",
+      "Giá trị": 7
+    },
+    {
+      "Thuộc tính": "Tổng số chunk",
+      "Giá trị": 321
+    },
+    {
+      "Thuộc tính": "Chunk size (token)",
+      "Giá trị": 800
+    },
+    {
+      "Thuộc tính": "Overlap (token)",
+      "Giá trị": 100
+    },
+    {
+      "Thuộc tính": "Độ dài chunk trung bình",
+      "Giá trị": 127.14
+    },
+    {
+      "Thuộc tính": "Độ dài chunk min/max",
+      "Giá trị": {
+        "min": 10,
+        "max": 233
+      }
+    }
+  ],
+  "details": {
+    "original_documents": 7,
+    "unique_sources_from_metadata": 7,
+    "total_chunks": 321,
+    "chunk_size": 800,
+    "chunk_overlap": 100,
+    "average_chunk_length": 127.14,
+    "min_chunk_length": 10,
+    "max_chunk_length": 233,
+    "all_chunk_json_files": [
+      "D:\\Khoá luận tốt nghiệp\\RAG_UNETI_WORKFLOW_v3\\source\\pdf\\md\\03.-Bản-chuẩn-QD-740.-20.10.2018-Quy-dinh-ve-hoc-kiem-tra-va-CĐR-ngoai-ngu_chunks.json",
+      "D:\\Khoá luận tốt nghiệp\\RAG_UNETI_WORKFLOW_v3\\source\\pdf\\md\\4.-QD-747-20.10.2018.-Quy-chế-đánh-giá-điểm-rèn-luyện-của-sinh-viên_chunks.json",
+      "D:\\Khoá luận tốt nghiệp\\RAG_UNETI_WORKFLOW_v3\\source\\pdf\\md\\5.QĐ-748-20.10.2018.-Quy-định-về-học-bổng-khuyến-khích-học-tập-đối-với-sinh-viên-Trường-Đại-học-Kinh-tế-Kỹ-thuật-Công-nghiệp_chunks.json",
+      "D:\\Khoá luận tốt nghiệp\\RAG_UNETI_WORKFLOW_v3\\source\\pdf\\md\\qd670-ban-hanh-quy-dinh-ve-cdr-tin-hoc-20250915082744-e_chunks.json",
+      "D:\\Khoá luận tốt nghiệp\\RAG_UNETI_WORKFLOW_v3\\source\\scan\\md\\14.-QD-828-Qui-dinh-ve-viec-huong-dan-va-danh-gia-khoa-luan-tot-nghiep-doi-voi-sinh-vien-dai-hoc-chinh-quy-dao-tao-theo-he-thong-tin-chi.1-đã-chuyển-đổi_chunks.json",
+      "D:\\Khoá luận tốt nghiệp\\RAG_UNETI_WORKFLOW_v3\\source\\scan\\md\\qd-1228-phuong-thuc-danh-gia-cdr-20250106041456-e (1)_chunks.json",
+      "D:\\Khoá luận tốt nghiệp\\RAG_UNETI_WORKFLOW_v3\\source\\scan\\md\\qd-853-2592023-20240826115209-e_chunks.json"
+    ]
+  }
+}
